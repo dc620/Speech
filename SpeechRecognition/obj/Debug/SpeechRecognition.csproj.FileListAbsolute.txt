@@ -1,0 +1,16 @@
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\App.g.cs
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition_MarkupCompile.cache
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition_MarkupCompile.lref
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\bin\Debug\SpeechClient.dll
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\MainWindow.baml
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition.g.resources
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\Divakar Chinta\Downloads\Azure-master\Azure-master\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
